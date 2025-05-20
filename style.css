@@ -1,1 +1,14 @@
+*{
+margina:0;
+padding: 0;
+box-sizing: border-box;
+}
 
+body{
+ front-family:, "Poppins", sans-serif;
+}
+ header{
+  background-color: #424e61;
+  color:white;   
+  padding: 20px;
+ }
