@@ -16,6 +16,7 @@
   }
   
   .cabecalho-itens {
+    
     max-width: 1980px;
     margin: 0 auto;
     display: flex;
@@ -24,6 +25,7 @@
   }
   
   .cabecalho-imagem {
+
     width: 6%;
     display: flex;
     justify-content: flex-start;
@@ -31,6 +33,7 @@
   }
   
   .titulo_site {
+
     padding: 50px;
     text-align: center;
     width: 50%;
@@ -38,6 +41,7 @@
   }
   
   .sociais {
+
     display: flex;
     justify-content: flex-end;
     width: %;
@@ -46,11 +50,13 @@
   
   .banner1 {
 
+
     display: flex;
     justify-content: center;
   }
   
   .estudante_titulo {
+
 
     padding: 50px;
     text-align: center;
@@ -58,10 +64,12 @@
   
   .estudante-nome {
 
+
     text-align: center;
   }
   
   .estudante-imagem {
+
 
     width: 120px;
   }
